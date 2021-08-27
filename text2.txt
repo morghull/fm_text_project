@@ -1,0 +1,1 @@
+some text of file text2.txt
